@@ -27,7 +27,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 10%;
+    margin: 10% 15%;
+    gap: 2rem
 }
 
 .apresentacao__texto--titulo
@@ -43,14 +44,30 @@
 }
 
 .apresentacao__texto--paragrafo,
-.apresentacao__texto--link
+.apresentacao__texto--links-link
 {
     font-size: 24px;
     line-height: 36px;
+    margin-top: 3rem;
 }
 
-.apresentacao__texto--link
+.apresentacao__texto--paragrafo
 {
+    text-align: justify;
+}
+
+.apresentacao__texto--links
+{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.apresentacao__texto--links-link
+{
+    background-color: var(--cor-de-destaque);
+    padding: 1rem 5rem;
     color:var(--cor-de-fundo);
     font-weight: 600;
+    border-radius: 1rem;    
 }
