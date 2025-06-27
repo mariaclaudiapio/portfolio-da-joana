@@ -28,8 +28,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 10% 15%;
-    gap: 3rem
+    margin: 7% 15%;
+    gap: 3rem;
 }
 
 .apresentacao__texto--titulo
@@ -91,4 +91,14 @@
 .apresentacao__texto--links-link:hover
 {
     background-color: #272727;
+}
+
+.rodape
+{
+    background-color: var(--cor-de-destaque);
+    padding: 2rem 0;
+    text-align: center;
+    color: var(--cor-de-fundo);
+    font-size: 24px;
+
 }
