@@ -19,7 +19,7 @@ O layout foi inspirado no modelo do Figma que pode ser visualizado através do l
 
 ## 🖥️ Como visualizar ##
 
-Você pode clonar este repositório e abrir o arquivo ``index.html`` em qualquer navegador. Também pode usar uma extensão como **Live Server** no _VS Code_ para uma visualização dinâmica. Ou ainda, acessar o projeto _online_ clicando no link da _Vercel_: 🔗[Acesse o Projeto Online](https://alura-plus-2025.vercel.app)
+Você pode clonar este repositório e abrir o arquivo ``index.html`` em qualquer navegador. Também pode usar uma extensão como **Live Server** no _VS Code_ para uma visualização dinâmica. Ou ainda, acessar o projeto _online_ clicando no link da _Vercel_: 🔗[Acesse o Projeto Online](https://portfolio-da-joana.vercel.app)
 
 ## 💡 Aprendizados ##
 
